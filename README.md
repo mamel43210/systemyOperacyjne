@@ -3,3 +3,5 @@ Repozytorium z kodem z SO
 
 jakies bzdura
 ()
+
+eheheh
